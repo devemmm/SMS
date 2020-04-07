@@ -34,4 +34,15 @@ npm install --save express ejs body-parser nexmo socket.io nodemon
 nodemon
 
 #thank you !!!!!!!!!!!!!!!!!
+
+# follow us on:
+# instagram: emmy_____disc_jocker
+# facebook: emmy_disc_jocker
+# twiter: emmy_disc_jocker
+
+# also you can Text Us
+# gmail: djntivuguruzwaemmanuel@gmail.com
+#	 primaryemmy@gmail.com
+# Whatsapp: +250788596281
+#.
 #copy right by Emmanuel Ntivuguruzwa &copy; 2020
